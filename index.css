@@ -48,3 +48,7 @@ section {
   gap: 2em;
   margin-top: 2em;
 }
+
+#contact a {
+  color: white;
+}
